@@ -4,4 +4,4 @@ Utility for a Kennett Square "The Garage" youth center facility to track attenda
 -A production-quality cross-platform software utility
 
 Example Usage:
-![Example Usage](/imgs/DisplayGYC?raw=true "Example Usage")
+![Example Usage](https://raw.githubusercontent.com/jb817566/GarageYouthCenterAttendanceUtility/master/imgs/DisplayGYC.png "Example Usage")
